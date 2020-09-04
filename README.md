@@ -1,5 +1,9 @@
 # RS-lang
-## Используемые технологии:
+Demo video: https://www.youtube.com/watch?v=4FmTptJPjJE
+Demo: https://rslang-team44-not-saint.netlify.app/
+(login: triton.68@mail.ru, password: Triton1994!)
+
+## Еechnologies used:
  - React
  - redux
  - material-ui
@@ -9,24 +13,4 @@
  - devexpress/dx-react-chart
  - classnames
  - webpack
- - eslint
-
- ### Основные преимущества используемых технологий
- - React - нам нравится философия подхода к структуре приложения
- - redux - избавляет от проблемы propertyDrills
- - material-ui - облегчает создание современного интерфейса
- - CSS/SASS - ускорение работы со стилями
- - react-router-dom - для организации навигации (в том числе и в браузере) между страницами
- - redux-thunk - упрощает работу с асинхронными мидлварами для redux
- - devexpress/dx-react-chart - библиотека для работы с различными графиками
- - webpack (create-react-app) - сборка проекта, hot server и прочее
- - eslint/style-lint - для единого стиля кода всей команды + исключение некоторых ошибок
-
-
- ### Некоторые недостатки используемых технологий
- - React - дополнительная трата времени на изучение для неподготовленных членов команды технологии
- - material-ui - некоторые сложности с кастомизацией компонент
- - redux-thunk - упрощает работу с асинхронными мидлварами для redux
- - devexpress/dx-react-chart - библиотека для работы с различными графиками
- - webpack (create-react-app) - сборка проекта, hot server и прочее
- - eslint/style-lint - возможны сложности с написанием кода соответствующего стилю
+ - eslint(react, airbnb)
